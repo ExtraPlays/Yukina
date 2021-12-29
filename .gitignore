@@ -1,4 +1,4 @@
 node_modules/
-package-lock.json/
-teste.js/
-.env/
+package-lock.json
+teste.js
+.env
