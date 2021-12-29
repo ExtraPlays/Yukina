@@ -1,0 +1,77 @@
+[    
+    {
+        "name": "Vara de Pescar",
+        "icon": "🎣",
+        "desc": "Usada para pescar peixinhos 🐟 ~~(obvio)~~",
+        "usable": false,
+        "price": 3000,
+        "type": 1,
+        "id": 1
+    },    
+    {
+        "name": "Mochila Padrao",
+        "icon": "🎒",
+        "desc": "Voce ja possui essa mochila. Capacidade: 10 itens",
+        "usable": true,
+        "price": 10000,
+        "type": 1,
+        "id": 2
+    },
+    {
+        "name": "Mochila Pequena",
+        "icon": "🎒",
+        "desc": "Com essa mochila voce pode carregar ate 15 itens",
+        "usable": true,
+        "price": 10000,
+        "type": 1,
+        "id": 3
+    },
+    {
+        "name": "Mochila Media",
+        "icon": "🎒",
+        "desc": "Com essa mochila voce pode carregar ate 23 itens",
+        "usable": true,
+        "price": 22000,
+        "type": 1,
+        "id": 4
+    },
+    {
+        "name": "Mochila Grande",
+        "icon": "🎒",
+        "desc": "Com essa mochila voce pode carregar ate 30 itens",
+        "usable": true,
+        "price": 40000,
+        "type": 1,
+        "id": 5       
+    },
+    {
+        "name": "Energetico",
+        "icon": "🍹",
+        "desc": "Recupere 30 de energia ao tomar essa bebida deliciosa",
+        "usable": true,
+        "price": 30000,
+        "type": 2,
+        "value": 30,
+        "id": 6
+    },
+    {
+        "name": "Chocolate",
+        "icon": "🍫",
+        "desc": "Recupere 10 de energia ao comer esse delicioso chocolate",
+        "usable": true,
+        "price": 800,
+        "type": 2,
+        "value": 10,
+        "id": 7
+    },
+    {
+        "name": "Hamburguer",
+        "icon": "🍔",
+        "desc": "Recupere 45 de energia ao comer esse delicioso X-Tudo",
+        "usable": true,
+        "price": 800,
+        "type": 2,
+        "value": 45,
+        "id": 8
+    }
+]
