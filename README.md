@@ -17,7 +17,7 @@ Para adicionar a Yukina ao seu servidor [CLIQUE AQUI](https://discord.com/oauth2
  - [x] Anti-Invites
  - [x] Tickets
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.discordapp.com/attachments/926112877776089128/927422296459718696/unknown.png"/><br>
   <img src="https://cdn.discordapp.com/attachments/926112877776089128/927422522570440774/unknown.png"/><br>
   <img src="https://cdn.discordapp.com/attachments/915123231885758515/927422676316864622/unknown.png"/><br>
