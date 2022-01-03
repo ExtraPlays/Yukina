@@ -1,6 +1,12 @@
-# YUKINA BOT
+# Yukina
+ Esse é um projeto criado para o estudo da api do **discord.js**
+## Tecnologias utilizadas
+- **JavaScript**
+- **MongoDB**
+- **Discord.js**
+## Requisitos
+- Ter instalado o Node na versão **16.X**
 
-## Language and Tools
-. JavaScript
-. MongoDB
-. Discord.js
+## Em andamento
+ - [ ] Dashboard
+ - [ ] Sistema de RPG funcional
