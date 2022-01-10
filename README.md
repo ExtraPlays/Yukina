@@ -3,7 +3,7 @@
 # Yukina
 #### Yukina é um bot focado em moderação e economia.
 #### Para adicionar a Yukina ao seu servidor [CLIQUE AQUI](https://discord.com/oauth2/authorize?client_id=599398298096500747&scope=bot&permissions=8)
-#### Website: http://yukinabot.xyz
+#### Website: [Yukina](http://yukinabot.xyz:10020)
 - Esse é um projeto criado para estudo
  
 ## 📡 Tecnologias utilizadas
